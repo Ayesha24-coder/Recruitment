@@ -1,2 +1,2 @@
 # Recruitment
-This repository is a collection of resources, templates, and tools for Human Resources management, designed to streamline HR processes such as recruitment, employee onboarding, performance evaluation, and more. It aims to provide an organized and efficient way for HR professionals to manage tasks and improve workflows.
+This repository is dedicated to recruitment-related resources at Compilex Technologies. It includes templates for job descriptions, recruitment strategies, interview questions, and other tools that help streamline and enhance the hiring process. This repository aims to centralize all recruitment-related documentation, improve collaboration among HR team members, and ensure consistency and efficiency in the recruitment workflow.
